@@ -3,3 +3,6 @@
 *.depend
 */bin/
 */obj/
+*/.idea/
+CMakeLists.txt
+*.out
