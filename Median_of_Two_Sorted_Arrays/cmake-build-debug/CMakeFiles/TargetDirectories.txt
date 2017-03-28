@@ -1,3 +1,0 @@
-/home/honkee/workspaces/leetcode/Median_of_Two_Sorted_Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/honkee/workspaces/leetcode/Median_of_Two_Sorted_Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/honkee/workspaces/leetcode/Median_of_Two_Sorted_Arrays/cmake-build-debug/CMakeFiles/Median_of_Two_Sorted_Arrays.dir
